@@ -6,7 +6,7 @@ Uma calculadora simples feita com **HTML**, **CSS** e **JavaScript**, com suport
 
 ## 📸 Preview
 
-![Calculator Preview]()
+![Calculator Preview](https://github.com/Bscanto/Projeto-Calculadora_JS/blob/main/preview.png)
 
 ---
 
